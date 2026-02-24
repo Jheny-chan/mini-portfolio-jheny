@@ -28,8 +28,7 @@ body
 }
 img
 {
-    width: 100px;
-    height: 100px;
+    object-i:cover;
     border-radius: 50%;
     border: 2px solid coral;
     box-shadow: 0 0 5px rgb(82, 82, 82);
@@ -41,4 +40,5 @@ h1
 p
 {
     text-shadow: 0 0 3px #ff0000, 0 0 5px #ff0000;
+
 }
